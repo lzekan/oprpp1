@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lukaz
+ *
+ */
+module test {
+}

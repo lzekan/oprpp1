@@ -1,0 +1,6 @@
+Ivo	3.5	true
+Anita	4.2	false
+Pero	4.3	false
+Vesna	3.6	true
+Ante	6.3	true
+Ivana	3.4	false
